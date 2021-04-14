@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4NJIND3R
 - 👀 I’m interested in IoT, automation, app dev, game dev and website desiging.
-- 🌱 I’m currently learning java, c#, .net, php, html, css, javascript, networking
+- 🌱 I’m currently learning java, c#, .net, php, html, css and javascript
 - 💞️ I’m looking to collaborate with anyone freely
 - 📫 How to reach me mansingh41100@gmail.com
 
