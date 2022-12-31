@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4NJIND3R
 - 👀 I’m interested in IoT, automation, game development, Software application development and web development in the order of curiosity.
-- 🌱 I am currently exploring the depths of JAVA, ASP .NET, C#, Javascript and Python
+- 🌱 I am currently exploring the depths of Ionic, NODE.js, JAVA, ASP .NET, C#, Javascript and Python
 - 💞️ I am always looking for new, fun and learning opportunities
 - 📫 How to reach me, LinkedIn: https://www.linkedin.com/in/manjinder-singh-9922a11b5 
 
